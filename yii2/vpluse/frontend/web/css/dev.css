@@ -1,0 +1,79 @@
+.dropdown-menu {
+    top: -520%;
+}
+
+.pagination {
+    border-radius: 4px;
+    display: inline-block;
+    float: left;
+    margin: 20px 0;
+    padding-left: 0;
+}
+.button_drop_down {
+    margin: 20px 5px;
+    line-height: 1.42857;
+}
+.history__table {
+    overflow: hidden;
+}
+.button_drop_down button {
+    background-color: white;
+    background-image: none;
+    padding: 8px 12px;
+}
+
+.button_drop_down button:hover {
+    color: #000000;
+}
+.button_drop_down ul li a:hover{
+    background-color: #00aa00;
+}
+.half_right {
+    width: 49%;
+    float: right;
+}
+.half_left {
+    width: 49%;
+    float: left;
+}
+#not_have_payment_detail {
+    display: none;
+}
+.daterangepicker {
+    box-sizing: border-box;
+}
+.btn_main {
+    background-color: #fd9200;
+    background-image: linear-gradient(to top, #fd9200 0%, #febd16 100%);
+    border-radius: 5px;
+    color: #1d1d1d;
+    display: inline-block;
+    font: 13px "GothamProLight";
+    padding: 10px 15px;
+    transition: all 0.2s linear 0s;
+    vertical-align: top;
+}
+.content__addit {
+    float: right;
+    padding-top: 35px;
+}
+.mCustomScrollBox {
+    height: auto;
+}
+.sidebar__row:hover {
+    width: 240px;
+}
+.sidebar_close .sidebar__row:hover, .sidebar_close .sidebar__row:hover a {
+    border-bottom: none;
+    margin-bottom: 1px;
+}
+#partner_link_result {
+    margin-top: 10px;
+    font-size: 16px;
+}
+.sidebar_close .sidebar__item::after {
+    display: none;
+}
+.subscription_checkbox {
+    display: inline;
+}
